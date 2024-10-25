@@ -1,0 +1,41 @@
+
+body{
+    height: 100%;
+    width: 100%;
+    font-family: "Roboto", sans-serif;
+    background-color: aliceblue;
+
+}
+/* .main{
+    background-color: aliceblue;
+} */
+
+.button{
+    padding: 21px;
+    width: 66px;
+    max-width: auto;
+    margin: 0px 5px;
+    border: 2px solid gray;
+    border-radius: 18px;
+    cursor: pointer;
+    background-color: gray;
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
+
+
+}
+.row{
+    margin: 10px 0;
+}
+.container{
+    text-align: center;
+}
+.row input{
+   
+    margin: 0px;
+    padding: 10px 2px;
+    border: 2px solid black;
+    border-radius: 5px;
+    font-size: 20px;
+}
